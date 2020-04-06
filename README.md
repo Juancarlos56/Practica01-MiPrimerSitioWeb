@@ -1,8 +1,9 @@
 # Practica01-MiPrimerSitioWeb
 
+## Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con:
 
-Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con:  
-• Una página principal denominada index.html  
+### Una página principal denominada index.html  
+
 
 • Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.  
 
