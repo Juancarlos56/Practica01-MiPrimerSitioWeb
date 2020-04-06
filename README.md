@@ -3,11 +3,14 @@
 ## Estructurar un sitio web estático usando HTML5. El sitio web será informativo sobre un tema que será autoría del estudiante. El sitio web deberá contar con:
 
 ### Una página principal denominada index.html  
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/index.png)
+
+### Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.  
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/archivos.png)
+
+### Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.  
 
 
-• Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.  
-
-• Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.  
 
 • Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería: 
 
