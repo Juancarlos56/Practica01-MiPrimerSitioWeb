@@ -18,23 +18,23 @@
 #### Estructura Modelo:
 ![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/estructura.png)
 
-El encabezado
-La mayoría de los sitios web suelen tener un encabezado, llamado header en inglés. Con mayor frecuencia hay un logotipo, un banner, el eslogan de su sitio. El encabezado puede contener lo que desee: imágenes, enlaces, textos
+### El encabezado
+#### La mayoría de los sitios web suelen tener un encabezado, llamado header en inglés. Con mayor frecuencia hay un logotipo, un banner, el eslogan de su sitio. El encabezado puede contener lo que desee: imágenes, enlaces, textos
 
-Enlaces de navegación principales
-La etiqueta <nav> debe incluir todos los enlaces de navegación principales del sitio. Colocará allí, por ejemplo, el menú principal de su sitio. Generalmente, el menú se crea como una lista con viñetas dentro de la etiqueta <nav>
+### Enlaces de navegación principales
+#### La etiqueta <nav> debe incluir todos los enlaces de navegación principales del sitio. Colocará allí, por ejemplo, el menú principal de su sitio. Generalmente, el menú se crea como una lista con viñetas dentro de la etiqueta <nav>
 
-Una sección de página
-La etiqueta se <section> usa para agrupar el contenido de acuerdo con su tema. Por lo general, incluye una parte del contenido en el centro de la página. Cada sección puede tener su título de nivel 1, al igual que el encabezado también puede contener un título <h1>. 
+### Una sección de página
+#### La etiqueta se <section> usa para agrupar el contenido de acuerdo con su tema. Por lo general, incluye una parte del contenido en el centro de la página. Cada sección puede tener su título de nivel 1, al igual que el encabezado también puede contener un título <h1>. 
 
-informaciones complementarias
-La etiqueta <aside>está diseñada para contener información adicional al documento que se está viendo. Esta información generalmente se coloca a un lado (aunque esto no es un requisito).
+### informaciones complementarias
+#### La etiqueta <aside>está diseñada para contener información adicional al documento que se está viendo. Esta información generalmente se coloca a un lado (aunque esto no es un requisito).
 
-un artículo independiente
-La etiqueta se <article>usa para abarcar una parte generalmente independiente de la página. Es una parte de la página que, por lo tanto, podría ocuparse en otro sitio. 
+### un artículo independiente
+#### La etiqueta se <article>usa para abarcar una parte generalmente independiente de la página. Es una parte de la página que, por lo tanto, podría ocuparse en otro sitio. 
 
-El pie de página
-A diferencia del encabezado, el pie de página suele estar en la parte inferior del documento. Contiene información como enlaces de contacto, el nombre del autor, avisos legales, etc.
+### El pie de página
+#### A diferencia del encabezado, el pie de página suele estar en la parte inferior del documento. Contiene información como enlaces de contacto, el nombre del autor, avisos legales, etc.
 
 
 #### Pagina index.html
@@ -125,7 +125,7 @@ A diferencia del encabezado, el pie de página suele estar en la parte inferior 
 
 ## CONCLUSIONES:
 
-A través de esta práctica se logró comprender los conceptos básicos de html5 y sus respectivas funcionalidades que posee cada etiqueta, y para que funcionan cada una de ellas, además de eso se logró comprender una estructura correcta de cómo desarrollar una página web pero sabiendo también que eso va a depender del gusto de cada uno. Se logro corregir errores a través de la plataforma web https://validator.w3.org/ la cual fue de gran utilidad para ver en que estaba fallando con la sintaxis de html5.
+### A través de esta práctica se logró comprender los conceptos básicos de html5 y sus respectivas funcionalidades que posee cada etiqueta, y para que funcionan cada una de ellas, además de eso se logró comprender una estructura correcta de cómo desarrollar una página web pero sabiendo también que eso va a depender del gusto de cada uno. Se logro corregir errores a través de la plataforma web https://validator.w3.org/ la cual fue de gran utilidad para ver en que estaba fallando con la sintaxis de html5.
 
 
 
