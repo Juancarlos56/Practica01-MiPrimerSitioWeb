@@ -6,7 +6,7 @@
         Information about Indie Rock page
         Author: Juan Carlos Barrera Barrera  
         Date:  04/04/2020 
-        Filename: videos.html 
+        Filename: audio.html 
     -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,22 +49,17 @@ que aparecerá en la página web-->
         <h3>Indice</h3>
         <nav>
             <ol>
-                <li><a href="historia.html#Definicion"> Definición de «indie» </a></li>
-                <li><a href="historia.html#Movimiento"> El movimiento indie y la tecnología </a></li>
-                <li><a href="historia.html#Subgeneros"> Subgéneros y características </a></li>
+                <li><a href="audio.html#ultimos"> Ultimos Audios Subidos </a></li>
+                <li><a href="audio.html#soloAudio"> Videos solo Audio </a></li>
+                <li><a href="audio.html#subidos"> Videos Subidos</a></li>
 
             </ol>
         </nav>
-
-        <article>
-            <!--sirve para definir un contenido autónomo e independiente, que pueda ser usado en otra parte de la web sin que por ello pierda su significado. usarías el elemento <artícle> para un artículo de un blog, o una noticia de un periódico o incluso un comentario de un blog-->
-        </article>
             
         <article>
-            
 
-            <h3>Ultimos Audios Subidos</h3>
-            <table border="1" style="width: 400px" >
+            <h3 id="ultimos">Ultimos Audios Subidos</h3>
+            <table border="1" style="width: 400px;" >
               
                 <colgroup>
                     <col style="width: 150px"/>
@@ -81,30 +76,30 @@ que aparecerá en la página web-->
                     <tr>
                         <th>Naya - Girl On the Moon</th>
                         <td>
-                            <img src="../images/nuya-gitl-on-the-moon.jpg" width="250px">
-                            <audio src="../audios/Naya - Girl On the Moon (Clip officiel).mp3" controls style="width: 250px;"></audio>
+                            <img src="../images/nuya-gitl-on-the-moon.jpg"  alt="" style="width: 250px;">
+                            <audio data-scr="../audios/Naya - Girl On the Moon (Clip officiel).mp3" controls style="width: 250px;"></audio>
                         </td>
                     </tr>
 
                     <tr>
                         <th>COIN - Run</th>
                         <td>
-                            <img src="../images/coin-run.jpg" width="250px">
-                            <audio src="../audios/Coin - Run.mp3" controls style="width: 250px;"></audio>
+                            <img src="../images/coin-run.jpg" alt="" style="width: 250px;">
+                            <audio data-scr="../audios/Coin - Run.mp3" controls style="width: 250px;"></audio>
                         </td>
                     </tr>
 
                     <tr>
                         <th>Cage the Elephant - Trouble</th>
                         <td>
-                            <img src="../images/Cage-trouble.jpg" width="250px">
-                            <audio src="../audios/Trouble.mp3" controls style="width: 250px;"></audio>
+                            <img src="../images/Cage-trouble.jpg"  alt="" style="width: 250px;">
+                            <audio data-scr="../audios/Trouble.mp3" controls style="width: 250px;"></audio>
                         </td>
                     </tr>
                 </tbody>    
                 <tfoot>
                     <tr>
-                        <td colspan="3">Bandas más conocidad</td>
+                        <td colspan="2">Bandas más conocidad</td>
                     </tr>
                 </tfoot>
             </table>
@@ -113,27 +108,28 @@ que aparecerá en la página web-->
     </section>
     
     <section>
-        <h2>Videos solo Audio</h2>
+        <h2 id="soloAudio">Videos solo Audio</h2>
+        
         <article>
-            <h3>Videos Subidos</h3>
+            <h3 id="subidos">Videos Subidos</h3>
             <blockquote>
                 <h4>Cage The Elephant - Honeypie Come A Little Closer</h4>
-                <iframe width="400" height="315" src="https://www.youtube.com/embed/uRI0_G9RIDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/uRI0_G9RIDw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </blockquote>
 
             <blockquote>
                 <h4>Alkaloides - Ojeras</h4>
-                <iframe width="400" height="315" src="https://www.youtube.com/embed/JV-Bi61BCt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/JV-Bi61BCt8"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </blockquote>
 
             <blockquote>
                 <h4>The Strokes - Bad Decisions</h4>
-                <iframe width="400" height="315" src="https://www.youtube.com/embed/vFOAPi2EoHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/vFOAPi2EoHU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </blockquote>
             
             <blockquote>
                 <h4>Current Joys - A Different Age</h4>
-                <iframe width="400" height="315" src="https://www.youtube.com/embed/3G5Conn-b2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/3G5Conn-b2o" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </blockquote>
         </article>
     </section>
