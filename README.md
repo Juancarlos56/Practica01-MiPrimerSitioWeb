@@ -9,18 +9,25 @@
 ![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/archivos.png)
 
 ### Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario navegar de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como la secundaria.  
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/navegacion.png)
 
+### Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería: 
 
+#### Estructura Modelo:
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/estructura.png)
 
-• Todas las páginas *.html deben estar estructuradas según la semántica de HTML5. Nota.- se debe explicar la estructura de cada una de las página. Una estructura correcta de HTML5, sería: 
+#### Pagina index.html
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/indexU.png)
+![](https://github.com/Juancarlos56/Practica01-MiPrimerSitioWeb/blob/master/informe/indexD.png)
 
-•Todas las páginas *.html deben tener una etiqueta <header> la cuál, deberá contener una imagen (logo) relacionada al tema elegido. 
+### Todas las páginas *.html deben tener una etiqueta <header> la cuál, deberá contener una imagen (logo) relacionada al tema elegido. 
 
-• Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados • Las páginas *.html deberán tener al menos dos etiquetas <section>, <article> y <aside>.
-De igual manera, se pide que al menos una de las páginas dentro del contenido de la etiqueta <article>, tengan los siguientes requisitos: 
+### Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados • Las páginas *.html deberán tener al menos dos etiquetas <section>, <article> y <aside>.
+
+### De igual manera, se pide que al menos una de las páginas dentro del contenido de la etiqueta <article>, tengan los siguientes requisitos: 
  
-• Una tabla con la siguiente estructura: 
-• Un video de YouTube (ver, etiqueta <iframe>). 
+#### Una tabla con la siguiente estructura: 
+#### Un video de YouTube (ver, etiqueta <iframe>). 
 • Un video con la etiqueta <video>. 
 • Un audio con la etiqueta <audio>. 
 • Manejar listas ordenadas o desordenadas con al menos cinco ítems. 
